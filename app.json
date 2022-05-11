@@ -1,5 +1,5 @@
 {
-  "name": "Auto-Forward-Bot",
+  "name": "ART Auto-Forward-Bot",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
   "keywords": [
     "telegram",
@@ -8,10 +8,10 @@
     "forward",
     "bot"
   ],
-  "repository": "https://github.com/subinps/Forward_2.0",
+  "repository": "https://github.com/assc0d3r/artforward",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @assimilat0rt",
       "value": ""
     },
     "API_HASH": {
